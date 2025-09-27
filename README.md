@@ -1,42 +1,75 @@
-# Calculator App
+<img src="app/src/main/res/drawable/ic_launcher.png" width="100" alt="App Icon" /> 
 
-<img src="app/src/main/res/drawable/ic_launcher.png" width="100" />
+# 📱 Calculator App
 
-A simple and intuitive calculator app for Android.
+A simple, clean, and intuitive calculator app built for Android using Java and Kotlin. Perfect for basic arithmetic operations with a modern user interface.
 
-## Getting Started
+---
 
-### Prerequisites
+## 🔧 Getting Started
 
-- Android Studio installed on your machine
-- An Android emulator or a physical Android device
+### ✅ Prerequisites
 
-## 🚀 Installation Guide  
+Before you begin, make sure you have:
 
-### 1️⃣ Clone the Repository  
+* Android Studio installed
+* An Android emulator or a physical Android device
 
-```sh
+---
+
+## 🚀 Installation Guide
+
+### 1️⃣ Clone the Repository
+
+```bash
 git clone https://github.com/vaibhav-karad/calculator.git
-```  
+```
 
-### 2️⃣ Open in Android Studio  
+### 2️⃣ Open the Project
 
-🛠️ Launch **Android Studio** and open the cloned project.  
+Open **Android Studio**, click on **"Open an existing project"**, and select the cloned repository folder.
 
-### 3️⃣ Build and Run  
+### 3️⃣ Build and Run
 
-📱 Compile the app and run it on an **Android emulator** or a **physical device**.  
+* Click **Run ▶️** to build the app
+* Choose your emulator or connected device to install and launch the app
 
-### 4️⃣ Try the Beta Version  
+### 🔥 Try the Beta Version
 
-🔥 Want to explore the latest features? **Try the beta release!**  
+Explore the latest features by switching to the **beta** branch or downloading the **beta release** under the [Releases](../../releases) section.
 
-## App Preview
+---
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <img src="https://github.com/user-attachments/assets/3403f847-2546-4f35-a1a9-1925528a584e" width="300" />
-    <img src="https://github.com/user-attachments/assets/ac8e59ec-d077-4e06-98f6-351f422490a3" width="300" />
-    <img src="https://github.com/user-attachments/assets/ac8e59ec-d077-4e06-98f6-351f422490a3" width="300" />
-    <img src="https://github.com/user-attachments/assets/4fb24e0d-ad1c-48c4-aede-afd8e7ed44ab" width="300" />
-    <img src="https://github.com/user-attachments/assets/ceae93df-0086-4927-b45a-987f3cbf3a13" width="300" />
-    <img src="https://github.com/user-attachments/assets/
+## 📸 App Preview
+
+Here are some screenshots of the Calculator app in action:
+
+<p align="">
+  <img src="https://github.com/user-attachments/assets/3403f847-2546-4f35-a1a9-1925528a584e" width="250" />
+  <img src="https://github.com/user-attachments/assets/ac8e59ec-d077-4e06-98f6-351f422490a3" width="250" />
+  <img src="https://github.com/user-attachments/assets/4fb24e0d-ad1c-48c4-aede-afd8e7ed44ab" width="250" />
+  <img src="https://github.com/user-attachments/assets/ceae93df-0086-4927-b45a-987f3cbf3a13" width="250" />
+</p>
+
+---
+
+## 🧑‍💻 Technologies Used
+
+* Java & Kotlin
+* Android SDK
+* Material Design Components
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Feel free to open issues or submit pull requests to improve the app.
+
+---
+
+## 📄 License
+
+This project is open-source and available under the [MIT License](LICENSE).
+
+---
+
